@@ -1,4 +1,4 @@
-module github.com/terraform-docs/plugin-sdk
+module github.com/si-c613/plugin-sdk
 
 go 1.15
 
