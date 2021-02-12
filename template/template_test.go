@@ -20,8 +20,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/terraform-docs/plugin-sdk/print"
-	"github.com/terraform-docs/plugin-sdk/terraform"
+	"github.com/si-c613/plugin-sdk/print"
+	"github.com/si-c613/plugin-sdk/terraform"
 )
 
 func TestTemplateRender(t *testing.T) {

@@ -17,7 +17,7 @@ limitations under the License.
 package print
 
 import (
-	"github.com/terraform-docs/plugin-sdk/terraform"
+	"github.com/si-c613/plugin-sdk/terraform"
 )
 
 // Engine represents a plugin printer format. This interface must be satisfied

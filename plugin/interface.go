@@ -17,7 +17,7 @@ limitations under the License.
 package plugin
 
 import (
-	"github.com/terraform-docs/plugin-sdk/print"
+	"github.com/si-c613/plugin-sdk/print"
 )
 
 type plugin interface {
